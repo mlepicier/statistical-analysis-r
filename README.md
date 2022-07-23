@@ -8,7 +8,7 @@
 
 ## Business Context:
 
-<p align="justify">Along with Mathematics, Statistics is one of the building blocks of Machine Learning algorithms. Most key concepts of inferential statistics are part of the underlying principles behind many descriptive and predicitve analytics methods. Programming languages like R and SAS allow for much quicker calculation as well as a graphical representation which enhance the understanding of key principles and behaviors.</p>
+<p align="justify">Along with Mathematics, Statistics is one of the building blocks of Machine Learning algorithms. Most key concepts of inferential statistics are part of the underlying principles behind many descriptive and predictive analytics methods. Programming languages like R and SAS allow for much quicker calculation as well as a graphical representation which enhances the understanding of key principles and behaviors.</p>
 
 ***
 
