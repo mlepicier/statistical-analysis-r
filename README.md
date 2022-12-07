@@ -1,5 +1,9 @@
 # Statistical Analysis in R
 
+![readme-banner](https://user-images.githubusercontent.com/108199052/206317251-e5e58f19-ea28-4b88-88a1-2e926e4ef49c.jpg)
+
+## Abstract:
+
 <p align="justify">This project consists in leveraging the R programming language computation and plotting capabilities to illustrate basic inferential statistics concepts. Having achieved the highest overall grades of my engineering cohort in <b>Inferential Statistics</b>, I volunteered the next semester to mentor students in this class by preparing laboratory work in R to illustrate the key concepts from the lecture. This project was conducted from February 2019 to June 2019 as a student at the <b>University of Technology of Troyes</b>. Below are a few paragraphs to give you context about the project.</p>
 
 ## Repository Assets:
